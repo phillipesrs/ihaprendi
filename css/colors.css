@@ -1,0 +1,34 @@
+a,
+a:hover,
+a:focus,
+.bg-dark a:hover,
+.bg-dark a:focus,
+.bg-color a:hover,
+.bg-color a:focus,
+.bg-image a:hover,
+.bg-image a:focus,
+.btn-border,
+.bg-color .btn-border:hover,
+.bg-color .btn-border:focus,
+.gallery-item a,
+.gallery-item a:hover,
+.profile-wrapper .info .role,
+.profile-team .info .role {
+  color: #be1919;
+}
+
+hr,
+.btn,
+.btn-border:hover,
+.btn-border:focus,
+.bg-color {
+  background-color: #be1919;
+}
+
+.btn-border {
+  border: 2px solid #be1919;
+}
+
+.gallery-item .content {
+  border-top: 2px solid #be1919;
+}

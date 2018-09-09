@@ -1,0 +1,54 @@
+{
+    "teachers": [
+        
+        {
+            "photo": "http://ihaprendi.com/teachers/phillipenino.jpg",
+            "name": "Phillipe Soares",
+            "role": "Mentor e Professor de Inglês",
+            "description": "Busco a transformação e empoderamento através do aprendizado natural, que faz sentido e baseado na experiência. Ao longo dos 10 anos de experiência profissional e 30 de vida, descobri que eu prefiro conversar com pessoas do que computadores. E foi por isso, basicamente, que eu abandonei minha carreira como Analista de Sistemas para me tornar Empreendedor e Professor. Desisti da linguagem de programação para trabalhar a conexão entre pessoas. Nos últimos 3 anos tenho trabalhado o aprendizado das pessoas desenvolvendo a comunicação efetiva para uma melhor conexão com o mundo, aliando teoria e prática. Se você quer aprender a desenvolver suas habilidades de forma orgânica e natural, a Ih, Aprendi! é para você!"
+        }
+        
+    ],
+    "testimonials": [
+        {
+            "message": "Resgatei meu interesse em estudar inglês! As aulas com o Phillipe são super interessantes porque traz para a  nossa realidade o conteúdo a ser estudado. O que nos engaja muito mais no aprendizado! Gratidão Phillipe!",
+            "photo": "http://ihaprendi.com/testimonials/adrianacardoso.jpg",
+            "author": "Adriana Cardoso"
+        },
+        {
+            "message": "Método incrível que me fez gostar de aprender e perder a vergonha de falar. Sem cobranças e de uma maneira muito natural você acaba adquirindo prazer em aprender! Super indico!!!",
+            "photo": "http://ihaprendi.com/testimonials/alessandramendes.jpg",
+            "author": "Alessandra Mendes"
+        },
+        {
+            "message": "Faço aulas de inglês com o Phillipe há aproximadamente 4 meses. Nesse tempo pude entender que cada um tem sua forma de aprendizado e ritmo, e isso é o que mais gosto nas aulas. Já percebo um bom progresso. Os estímulos fora das aulas passadas por ele impulsionam ainda mais a vontade de aprender. Super recomendo!!",
+            "photo": "http://ihaprendi.com/testimonials/amandamattos.jpg",
+            "author": "Amanda Mattos"
+        },
+        {
+            "message": "Faz um ano que participo da Ih, Aprendi e so tenho evoluido cada vez mais com relação ao meu inglês,  onde a dois anos comecei a ter contato com o idioma e ja aprensento boa comunicatividade. Creio que seja pela maneira que o conteudo é aprensentado e adptado a sua expecifica necessidade, tornando assim o ensino de uma maneira mais produtiva, efetiva e satisfatoria. Super indico!",
+            "photo": "http://ihaprendi.com/testimonials/diogooliveira.jpg",
+            "author": "Diogo Oliveira"
+        },
+        {
+            "message": "Já estava cansado dos métodos tradicionais e de ir até a escola. Meu progresso foi assustador em 1 ano, além do método inovador, o foco em te fazer falar inglês é um diferencial. Tive também a experiência de fazer uma aula prática no Aeroporto de Guarulhos que foi muito legal e desafiadora, passei por diversas situações que vivenciamos em viagens. Simplesmente SENSACIONAL.",
+            "photo": "http://ihaprendi.com/testimonials/felipeferraz.jpg",
+            "author": "Felipe Ferraz"
+        },
+        {
+            "message": "Eu tenho aulas com o Phillipe há quase um ano e tive um grande progresso no meu aprendizado. Ele me encorajou a praticar o inglês colocando a vergonha de lado. Recomendo o Phillipe como um excelente profissional pra ajudá-lo a destravar essa língua.",
+            "photo": "http://ihaprendi.com/testimonials/isabelalencar.jpg",
+            "author": "Isabel Alencar"
+        },
+        {
+            "message": "I strongly recommend Phillipe as English Teacher. I had the opportunity to take classes with him last year and it was a really great experience for me. We also went to California together and I learned a lot with the practical English he teaches, he is really good at it!!",
+            "photo": "http://ihaprendi.com/testimonials/rodrigocavalcante.jpg",
+            "author": "Rodrigo Cavalcante"
+        },
+        {
+            "message": "As aulas do Phillipe são bem diferentes de tudo que já experimentei. Não sou a pessoa mais disciplinada da terra, por isso a forma orgânica da aula se encaixou tão bem com o meu jeito. Tem dias que estou ansiosa ou irritada com alguma coisa e ele consegue mudar tudo o que havia planejado para a aula para se adequar ao meu humor. E no fim, sempre saio melhor do que entrei. Tem dia que a aula é quase uma sessão de terapia em ingles. Mais que meu professor, hoje considero o Phillipe um amigo querido, que quero levar pra vida! Aprender inglês com ele é leve e assertivo! Amo as aulas! Sempre foca nas minhas dificuldades e isso é o maior diferencial das aulas individuais. Amooooo!!",
+            "photo": "http://ihaprendi.com/testimonials/tatialbuquerque.jpg",
+            "author": "Tatiana Albuquerque"
+        }
+    ]
+}
